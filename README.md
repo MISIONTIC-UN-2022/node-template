@@ -11,6 +11,6 @@ Esta plantilla incluye:
 - `start`, inicia el servidor en productivo.
 - `start:dev`, inicia el servidor en modo de desarrollo.
 - `build`, compila todo nuestro proyecto.
-- `build-babel`, compila nuestra carpeta src con babel.
+- `build:babel`, compila nuestra carpeta src con babel.
 - `prettier`, ejecuta prettier.
 - `prettier:fix`, ejecuta prettier en modo de sobre-escritura.
